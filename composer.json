@@ -15,7 +15,8 @@
         "symfony/console": "~2.7"
     },
     "require-dev": {
-        "mailchimp/mailchimp": "~2.0"
+        "mailchimp/mailchimp": "~2.0",
+        "phpunit/phpunit": "^9.6"
     },
     "autoload": {
         "psr-4": {
